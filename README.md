@@ -5,15 +5,7 @@
 
 protobuf支持各种语言。本文以Java为例，简单介绍protobuf如何使用。其他语言使用方法类似。
 
-首先需要下载：
 
-http://download.csdn.net/download/xiao__gui/7586617
-
-解压后有两个文件：protobuf-java-2.5.0.jar和protoc.exe。
-
-protobuf-java-2.5.0.jar即protobuf所需要的jar包，如果用maven的话可以无视这个文件；
-
-protoc.exe是protobuf代码生成工具。
 
 第一步：定义数据结构
 
